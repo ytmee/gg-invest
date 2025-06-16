@@ -1,0 +1,31 @@
+{
+  "stocks": [
+    {
+      "code": "600519.SH",
+      "name": "贵州茅台",
+      "lastYearNetProfit": 862.28,
+      "minDividendPayoutRatio": 0.75,
+      "defaultGrowthRate": 0.8,
+      "currentMarketCap": 17867,
+      "totalShares": 12.56,
+      "currentPrice": 1422.29,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 50.0,
+      "lastUpdated": "2025-06-16"
+    },
+    {
+      "code": "000858.SZ",
+      "name": "五粮液",
+      "lastYearNetProfit": 318.53,
+      "minDividendPayoutRatio": 0.7,
+      "defaultGrowthRate": 0.8,
+      "currentMarketCap": 4590.78,
+      "totalShares": 38.82,
+      "currentPrice": 118.27,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-06-16"
+    }
+  ],
+  "lastUpdated": "2025-06-16T22:00:00Z"
+}
