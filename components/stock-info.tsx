@@ -55,7 +55,9 @@ export function StockInfo({ stock }: StockInfoProps) {
           </div>
           <div>
             <span className="text-muted-foreground">注销式回购：</span>
-            <span className="font-medium">{formatLargeNumber(stock.cancellationBuyback, "money")}</span>
+            <span className="font-medium">
+              {stock.cancellationBuyback === 0 ? "-" : formatLargeNumber(stock.cancellationBuyback, "money")}
+            </span>
           </div>
           <div>
             <span className="text-muted-foreground">默认增长系数：</span>
