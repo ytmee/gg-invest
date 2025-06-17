@@ -6,12 +6,12 @@
       "lastYearNetProfit": 862.28,
       "minDividendPayoutRatio": 0.75,
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 17867,
+      "currentMarketCap": 17925.94,
       "totalShares": 12.56,
-      "currentPrice": 1422.29,
+      "currentPrice": 1427.0,
       "defaultTargetDividendRate": 0.04,
-      "cancellationBuyback": 50.0,
-      "lastUpdated": "2025-06-16"
+      "cancellationBuyback": 60,
+      "lastUpdated": "2025-06-17"
     },
     {
       "code": "000858.SZ",
@@ -19,13 +19,26 @@
       "lastYearNetProfit": 318.53,
       "minDividendPayoutRatio": 0.7,
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 4590.78,
+      "currentMarketCap": 4569.04,
       "totalShares": 38.82,
-      "currentPrice": 118.27,
+      "currentPrice": 117.71,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-16"
+      "lastUpdated": "2025-06-17"
+    },
+    {
+      "code": "002027.SZ",
+      "name": "分众传媒",
+      "lastYearNetProfit": 51.55,
+      "minDividendPayoutRatio": 0.8,
+      "defaultGrowthRate": 0.8,
+      "currentMarketCap": 1026.84,
+      "totalShares": 144.42,
+      "currentPrice": 7.11,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-06-17"
     }
   ],
-  "lastUpdated": "2025-06-16T22:00:00Z"
+  "lastUpdated": "2025-06-17T22:07:32Z"
 }
