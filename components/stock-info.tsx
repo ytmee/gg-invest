@@ -57,6 +57,7 @@ export function StockInfo({ stock }: StockInfoProps) {
             <span className="text-muted-foreground">注销式回购：</span>
             <span className="font-medium">{formatLargeNumber(stock.cancellationBuyback, "money")}</span>
           </div>
+          {/*
           <div>
             <span className="text-muted-foreground">默认增长系数：</span>
             <span className="font-medium">{stock.defaultGrowthRate.toFixed(2)}</span>
@@ -69,6 +70,7 @@ export function StockInfo({ stock }: StockInfoProps) {
             <span className="text-muted-foreground">综合收益率：</span>
             <span className="font-medium">{formatPercentage(currentDividendYield)}</span>
           </div>
+          */}
         </div>
       </CardContent>
     </Card>
