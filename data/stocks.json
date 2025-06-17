@@ -38,7 +38,20 @@
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-06-17"
+    },
+    {
+      "code": "600887.SH",
+      "name": "伊利股份",
+      "lastYearNetProfit": 84.53,
+      "minDividendPayoutRatio": 0.8,
+      "defaultGrowthRate": 0.8,
+      "currentMarketCap": 1775.53,
+      "totalShares": 63.25,
+      "currentPrice": 28.07,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-06-17"
     }
   ],
-  "lastUpdated": "2025-06-17T22:07:32Z"
+  "lastUpdated": "2025-06-17T22:12:36Z"
 }
