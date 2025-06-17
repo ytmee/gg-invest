@@ -10,7 +10,8 @@ import { CalculationResultsComponent } from "@/components/calculation-results"
 import { ThemeToggle } from "@/components/theme-toggle"
 import { GiscusComments } from "@/components/giscus-comments"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { ExternalLink, Video, AlertCircle } from "lucide-react"
+import { Button } from "@/components/ui/button"
+import { ExternalLink, Video, AlertCircle, Github } from "lucide-react"
 import stocksData from "@/data/stocks.json"
 
 export default function HomePage() {
@@ -44,7 +45,19 @@ export default function HomePage() {
           <div>
             <h1 className="text-3xl font-bold">龟龟投资法计算器</h1>
           </div>
-          <ThemeToggle />
+          <div className="flex items-center gap-2">
+            <Button variant="outline" size="icon" asChild>
+              <a
+                href="https://github.com/ytmee/gg-invest"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="访问GitHub仓库"
+              >
+                <Github className="h-[1.2rem] w-[1.2rem]" />
+              </a>
+            </Button>
+            <ThemeToggle />
+          </div>
         </div>
 
         {/* 项目限制说明 */}

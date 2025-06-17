@@ -4,7 +4,7 @@ from datetime import datetime
 import argparse
 
 def convert_stock_code(original_code):
-    """转换股票代码格式: 600519.SH -> sh600519"""
+    """转换��票代码格式: 600519.SH -> sh600519"""
     code, exchange = original_code.split('.')
     return f"{exchange.lower()}{code}"
 

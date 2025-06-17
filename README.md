@@ -39,15 +39,11 @@
 
 #### 预估综合收益率
 
-```
 预估综合收益率 = (去年净利润 × 增长系数 × 股息支付率 + 注销式回购) ÷ 总市值
-```
 
 #### 可接受价格
 
-```
 可接受价格 = (去年净利润 × 增长系数 × 股息支付率 + 注销式回购) ÷ 目标股息率 ÷ 总股本
-```
 
 ## 📋 开发计划 (TODO List)
 
@@ -80,21 +76,20 @@
 
 ### 股票数据字段
 
-```typescript
-interface StockData {
-  code: string                    // 股票代码
-  name: string                    // 公司名称
-  lastYearNetProfit: number       // 去年净利润（亿元）
-  minDividendPayoutRatio: number  // 最低股息支付率（0-1）
-  defaultGrowthRate: number       // 默认增长系数
-  currentMarketCap: number        // 当前总市值（亿元）
-  totalShares: number             // 总股本（亿股）
-  currentPrice: number            // 当前股价（元）
-  defaultTargetDividendRate: number // 默认目标股息率（0-1）
-  cancellationBuyback: number     // 注销式回购（亿元）
-  lastUpdated: string             // 最后更新时间
-}
-```
+| Field Name                  | Type    | Description                          |
+|-----------------------------|---------|--------------------------------------|
+| code                        | string  | 股票代码                            |
+| name                        | string  | 公司名称                            |
+| lastYearNetProfit           | number  | 去年净利润（亿元）                  |
+| minDividendPayoutRatio      | number  | 最低股息支付率（0-1）               |
+| defaultGrowthRate           | number  | 默认增长系数                        |
+| currentMarketCap            | number  | 当前总市值（亿元）                  |
+| totalShares                 | number  | 总股本（亿股）                      |
+| currentPrice                | number  | 当前股价（元）                      |
+| defaultTargetDividendRate   | number  | 默认目标股息率（0-1）               |
+| cancellationBuyback         | number  | 注销式回购（亿元）                  |
+| lastUpdated                 | string  | 最后更新时间                        |
+
 
 ## 技术栈
 
