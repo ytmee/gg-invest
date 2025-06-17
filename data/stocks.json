@@ -10,7 +10,7 @@
       "totalShares": 12.56,
       "currentPrice": 1422.29,
       "defaultTargetDividendRate": 0.04,
-      "cancellationBuyback": 60,
+      "cancellationBuyback": 50.0,
       "lastUpdated": "2025-06-16"
     },
     {
