@@ -67,3 +67,44 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Giscus 评论区样式优化 */
+.giscus {
+  width: 100%;
+}
+
+.giscus-frame {
+  width: 100%;
+  border: none;
+  color-scheme: auto;
+  border-radius: 0.5rem;
+}
+
+/* 确保评论区在深色模式下正确显示 */
+@media (prefers-color-scheme: dark) {
+  .giscus-frame {
+    color-scheme: dark;
+  }
+}
+
+/* 加载动画优化 */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+/* 折叠动画优化 */
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* 评论区展开按钮悬停效果 */
+.hover\:bg-accent\/50:hover {
+  background-color: hsl(var(--accent) / 0.5);
+}
