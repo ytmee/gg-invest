@@ -6,12 +6,12 @@
       "lastYearNetProfit": 862.28,
       "minDividendPayoutRatio": 0.75,
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 17925.94,
+      "currentMarketCap": 17900.82,
       "totalShares": 12.56,
-      "currentPrice": 1427.0,
+      "currentPrice": 1425.0,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 60,
-      "lastUpdated": "2025-06-17"
+      "lastUpdated": "2025-06-18"
     },
     {
       "code": "000858.SZ",
@@ -19,12 +19,12 @@
       "lastYearNetProfit": 318.53,
       "minDividendPayoutRatio": 0.7,
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 4569.04,
+      "currentMarketCap": 4593.11,
       "totalShares": 38.82,
-      "currentPrice": 117.71,
+      "currentPrice": 118.33,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-17"
+      "lastUpdated": "2025-06-18"
     },
     {
       "code": "002027.SZ",
@@ -32,12 +32,12 @@
       "lastYearNetProfit": 51.55,
       "minDividendPayoutRatio": 0.8,
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 1026.84,
+      "currentMarketCap": 1023.95,
       "totalShares": 144.42,
-      "currentPrice": 7.11,
+      "currentPrice": 7.09,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-17"
+      "lastUpdated": "2025-06-18"
     },
     {
       "code": "600887.SH",
@@ -45,13 +45,13 @@
       "lastYearNetProfit": 84.53,
       "minDividendPayoutRatio": 0.8,
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 1775.53,
+      "currentMarketCap": 1766.04,
       "totalShares": 63.25,
-      "currentPrice": 28.07,
+      "currentPrice": 27.92,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-17"
+      "lastUpdated": "2025-06-18"
     }
   ],
-  "lastUpdated": "2025-06-17T15:03:53Z"
+  "lastUpdated": "2025-06-18T07:39:10Z"
 }
