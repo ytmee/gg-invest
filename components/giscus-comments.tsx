@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react"
 import { useTheme } from "next-themes"
-import { ChevronDown, ChevronUp, MessageCircle, Users } from "lucide-react"
+import { ChevronDown, ChevronUp, MessageCircle } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export function GiscusComments() {
@@ -26,7 +26,7 @@ export function GiscusComments() {
     scriptElem.setAttribute("data-category-id", "DIC_kwDOO8j8vs4CrnF9")
     scriptElem.setAttribute("data-mapping", "title")
     scriptElem.setAttribute("data-strict", "0")
-    scriptElem.setAttribute("data-reactions-enabled", "1")
+    scriptElem.setAttribute("data-reactions-enabled", "0")
     scriptElem.setAttribute("data-emit-metadata", "0")
     scriptElem.setAttribute("data-input-position", "top")
     scriptElem.setAttribute("data-theme", resolvedTheme === "dark" ? "dark" : "light")
@@ -89,15 +89,12 @@ export function GiscusComments() {
       {/* 评论区内容 */}
       <div
         className={`transition-all duration-300 ease-in-out overflow-hidden ${
-          isExpanded ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
+          isExpanded ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"
         }`}
       >
-        <div className="border rounded-lg p-4 bg-card">
+        <div className="border rounded-lg bg-card">
           {isExpanded && (
             <>
-              <div className="mb-4 text-sm text-muted-foreground">
-              </div>
-
               {isLoading && (
                 <div className="flex items-center justify-center py-8">
                   <div className="flex items-center gap-2 text-muted-foreground">
@@ -107,7 +104,10 @@ export function GiscusComments() {
                 </div>
               )}
 
-              <div ref={ref} className="giscus" />
+              {/* 评论区容器 - 设置最大高度和滚动 */}
+              <div className="max-h-[800px] overflow-y-auto">
+                <div ref={ref} className="giscus p-4" />
+              </div>
             </>
           )}
         </div>
