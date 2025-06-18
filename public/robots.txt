@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gg-invest.yangt.me/sitemap.xml
