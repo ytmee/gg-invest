@@ -2,12 +2,16 @@
 
 import type { StockData } from "@/types/stock"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { SimpleTooltip } from "@/components/ui/simple-tooltip"
+import { HelpCircle } from "lucide-react"
 import {
   formatLargeNumber,
   formatPrice,
   formatPercentage,
+  formatSignedNumber,
   calculatePE,
   calculateCurrentDividendYield,
+  getAdjustedNetProfit,
 } from "@/utils/calculations"
 
 interface StockInfoProps {
@@ -15,6 +19,7 @@ interface StockInfoProps {
 }
 
 export function StockInfo({ stock }: StockInfoProps) {
+  const adjustedNetProfit = getAdjustedNetProfit(stock)
   const pe = calculatePE(stock)
   const currentDividendYield = calculateCurrentDividendYield(stock)
 
@@ -49,13 +54,45 @@ export function StockInfo({ stock }: StockInfoProps) {
             <span className="text-muted-foreground">去年净利润：</span>
             <span className="font-medium">{formatLargeNumber(stock.lastYearNetProfit, "money")}</span>
           </div>
-          <div>
+
+          {/* 特殊业绩调整项 */}
+          {stock.specialPreferenceAdjustment !== undefined && (
+            <>
+              <div className="overflow-visible">
+                <span className="text-muted-foreground">特殊业绩调整：</span>
+                <span
+                  className={`font-medium ml-1 ${stock.specialPreferenceAdjustment >= 0 ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"}`}
+                >
+                  {formatSignedNumber(stock.specialPreferenceAdjustment)}
+                </span>
+                {stock.specialPreferenceAdjustmentDesc && (
+                  <SimpleTooltip content={stock.specialPreferenceAdjustmentDesc}>
+                    <HelpCircle className="inline-block h-4 w-4 text-muted-foreground cursor-help hover:text-foreground transition-colors ml-1" />
+                  </SimpleTooltip>
+                )}
+              </div>
+              <div>
+                <span className="text-muted-foreground">调整后净利润：</span>
+                <span className="font-medium">{formatLargeNumber(adjustedNetProfit, "money")}</span>
+              </div>
+            </>
+          )}
+
+          <div className="overflow-visible">
             <span className="text-muted-foreground">最低股息支付率：</span>
-            <span className="font-medium">{formatPercentage(stock.minDividendPayoutRatio)}</span>
+            <span className="font-medium ml-1">{formatPercentage(stock.minDividendPayoutRatio)}</span>
+            {stock.minDividendPayoutRatioDesc && (
+              <SimpleTooltip content={stock.minDividendPayoutRatioDesc}>
+                <HelpCircle className="inline-block h-4 w-4 text-muted-foreground cursor-help hover:text-foreground transition-colors ml-1" />
+              </SimpleTooltip>
+            )}
           </div>
+
           <div>
             <span className="text-muted-foreground">注销式回购：</span>
-            <span className="font-medium">{stock.cancellationBuyback === 0 ? "-" : formatLargeNumber(stock.cancellationBuyback, "money")}</span>
+            <span className="font-medium">
+              {stock.cancellationBuyback === 0 ? "-" : formatLargeNumber(stock.cancellationBuyback, "money")}
+            </span>
           </div>
           <div>
             <span className="text-muted-foreground">默认增长系数：</span>
