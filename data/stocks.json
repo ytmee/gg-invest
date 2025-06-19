@@ -71,7 +71,35 @@
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-06-19"
+    },
+    {
+      "code": "600941.SH",
+      "name": "中国移动",
+      "lastYearNetProfit": 1383.73,
+      "minDividendPayoutRatio": 0.73,
+      "minDividendPayoutRatioDesc": "业绩说明会承诺未来逐步提升至75%以上, ref: https://pdf.dfcfw.com/pdf/H22_AN202504181658438341_1.pdf",
+      "defaultGrowthRate": 1,
+      "currentMarketCap": 24350.23,
+      "totalShares": 216.06,
+      "currentPrice": 112.7,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-06-19"
+    },
+    {
+      "code": "601318.SH",
+      "name": "中国平安",
+      "lastYearNetProfit": 1266.07,
+      "minDividendPayoutRatio": 0.3,
+      "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, 存在差异化分红, 回购专用证券账户上的A股股份不参与分红",
+      "defaultGrowthRate": 1,
+      "currentMarketCap": 9687.84,
+      "totalShares": 182.1,
+      "currentPrice": 53.2,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 50,
+      "lastUpdated": "2025-06-19"
     }
   ],
-  "lastUpdated": "2025-06-19T07:37:46Z"
+  "lastUpdated": "2025-06-19T19:28:25Z"
 }
