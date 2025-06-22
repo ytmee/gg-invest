@@ -12,7 +12,7 @@
       "currentPrice": 1428.66,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 60,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 119.56,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.01,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 27.92,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.29,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
     },
     {
       "code": "600941.SH",
@@ -84,7 +84,7 @@
       "currentPrice": 114.09,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
     },
     {
       "code": "601318.SH",
@@ -98,8 +98,36 @@
       "currentPrice": 54.74,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-06-21"
+      "lastUpdated": "2025-06-22"
+    },
+    {
+      "code": "600036.SH",
+      "name": "招商银行",
+      "lastYearNetProfit": 1483.91,
+      "minDividendPayoutRatio": 0.3,
+      "minDividendPayoutRatioDesc": "原则上不低于当年按中国会计准则审计的归属于本行普通股股东税后净利润30%, ref: https://s3gw.cmbimg.com/lb5001-cmbweb-prd-1255000097/cmbir/20250409/26eba71f-dc76-483c-bcf4-7a6be696ea60.pdf",
+      "defaultGrowthRate": 0.9,
+      "currentMarketCap": 11598.61,
+      "totalShares": 252.2,
+      "currentPrice": 45.99,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-06-22"
+    },
+    {
+      "code": "000333.SZ",
+      "name": "美的集团",
+      "lastYearNetProfit": 385.37,
+      "minDividendPayoutRatio": 0.6,
+      "minDividendPayoutRatioDesc": "现金分红在该次利润分配中所占比例最低应达到60%, ref: https://static.cninfo.com.cn/finalpage/2025-03-29/1222951882.pdf",
+      "defaultGrowthRate": 1,
+      "currentMarketCap": 5556.79,
+      "totalShares": 76.77,
+      "currentPrice": 72.38,
+      "defaultTargetDividendRate": 0.04,
+      "cancellationBuyback": 50,
+      "lastUpdated": "2025-06-22"
     }
   ],
-  "lastUpdated": "2025-06-21T07:35:32Z"
+  "lastUpdated": "2025-06-22T15:07:57Z"
 }
