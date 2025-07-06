@@ -10,8 +10,8 @@
       "currentMarketCap": 17865.9,
       "totalShares": 12.56,
       "currentPrice": 1422.22,
-      "defaultTargetDividendRate": 0.04,
-      "cancellationBuyback": 60,
+      "defaultTargetDividendRate": 0.045,
+      "cancellationBuyback": 40.5,
       "lastUpdated": "2025-07-06"
     },
     {
@@ -24,7 +24,7 @@
       "currentMarketCap": 4673.07,
       "totalShares": 38.82,
       "currentPrice": 120.39,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-07-06"
     },
@@ -38,7 +38,7 @@
       "currentMarketCap": 1051.39,
       "totalShares": 144.42,
       "currentPrice": 7.28,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-07-06"
     },
@@ -54,7 +54,7 @@
       "currentMarketCap": 1756.55,
       "totalShares": 63.25,
       "currentPrice": 27.77,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-07-06"
     },
@@ -68,7 +68,7 @@
       "currentMarketCap": 337.05,
       "totalShares": 46.23,
       "currentPrice": 7.29,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-07-06"
     },
@@ -82,7 +82,7 @@
       "currentMarketCap": 24175.22,
       "totalShares": 216.06,
       "currentPrice": 111.89,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-07-06"
     },
@@ -96,7 +96,7 @@
       "currentMarketCap": 10301.53,
       "totalShares": 182.1,
       "currentPrice": 56.57,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
       "lastUpdated": "2025-07-06"
     },
@@ -110,7 +110,7 @@
       "currentMarketCap": 11870.98,
       "totalShares": 252.2,
       "currentPrice": 47.07,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
       "lastUpdated": "2025-07-06"
     },
@@ -124,10 +124,52 @@
       "currentMarketCap": 5633.09,
       "totalShares": 76.66,
       "currentPrice": 73.48,
-      "defaultTargetDividendRate": 0.04,
+      "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
+      "lastUpdated": "2025-07-06"
+    },
+    {
+      "code": "000651.SZ",
+      "name": "格力电器",
+      "lastYearNetProfit": 321.85,
+      "minDividendPayoutRatio": 0.45,
+      "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
+      "defaultGrowthRate": 1,
+      "currentMarketCap": 2618.1,
+      "totalShares": 56.01,
+      "currentPrice": 46.74,
+      "defaultTargetDividendRate": 0.045,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-07-06"
+    },
+    {
+      "code": "002003.SZ",
+      "name": "伟星股份",
+      "lastYearNetProfit": 7.0,
+      "minDividendPayoutRatio": 0.75,
+      "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
+      "defaultGrowthRate": 1,
+      "currentMarketCap": 126.36,
+      "totalShares": 11.69,
+      "currentPrice": 10.81,
+      "defaultTargetDividendRate": 0.045,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2025-07-06"
+    },
+    {
+      "code": "001965.SZ",
+      "name": "招商公路",
+      "lastYearNetProfit": 53.22,
+      "minDividendPayoutRatio": 0.5,
+      "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
+      "defaultGrowthRate": 0.7,
+      "currentMarketCap": 822.53,
+      "totalShares": 68.2,
+      "currentPrice": 12.06,
+      "defaultTargetDividendRate": 0.045,
+      "cancellationBuyback": 3.1,
       "lastUpdated": "2025-07-06"
     }
   ],
-  "lastUpdated": "2025-07-06T07:34:45Z"
+  "lastUpdated": "2025-07-06T20:08:59Z"
 }
