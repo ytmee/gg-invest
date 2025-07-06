@@ -12,7 +12,7 @@
       "currentPrice": 1422.22,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 60,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 120.39,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.28,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 27.77,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.29,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "600941.SH",
@@ -84,7 +84,7 @@
       "currentPrice": 111.89,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "601318.SH",
@@ -98,7 +98,7 @@
       "currentPrice": 56.57,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "600036.SH",
@@ -112,7 +112,7 @@
       "currentPrice": 47.07,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     },
     {
       "code": "000333.SZ",
@@ -126,8 +126,8 @@
       "currentPrice": 73.48,
       "defaultTargetDividendRate": 0.04,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-06"
     }
   ],
-  "lastUpdated": "2025-07-05T07:35:16Z"
+  "lastUpdated": "2025-07-06T07:34:45Z"
 }
