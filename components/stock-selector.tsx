@@ -105,7 +105,7 @@ export function StockSelector({ stocks, selectedStock, onStockChange }: StockSel
         >
           {selectedStockData ? (
             <span className="truncate">
-              {selectedStockData.code} - {selectedStockData.name}
+              {selectedStockData.name} - {selectedStockData.code}
             </span>
           ) : (
             "请选择一只股票"
@@ -152,9 +152,9 @@ export function StockSelector({ stocks, selectedStock, onStockChange }: StockSel
                     onMouseEnter={() => setHighlightedIndex(index)}
                   >
                     <Check className={cn("mr-2 h-4 w-4", selectedStock === stock.code ? "opacity-100" : "opacity-0")} />
-                    <div className="flex flex-col flex-1 min-w-0">
-                      <span className="font-medium truncate">{stock.code}</span>
-                      <span className="text-xs text-muted-foreground truncate">{stock.name}</span>
+                    <div className="flex flex-row flex-1 min-w-0 items-center gap-2">
+                      <span className="font-medium truncate">{stock.name}</span>
+                      <span className="text-xs text-muted-foreground truncate">{stock.code}</span>
                     </div>
                   </div>
                 ))
