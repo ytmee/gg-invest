@@ -12,7 +12,7 @@
       "currentPrice": 1455.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 123.54,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.51,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 27.83,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.59,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "600941.SH",
@@ -84,7 +84,7 @@
       "currentPrice": 110.28,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "601318.SH",
@@ -98,7 +98,7 @@
       "currentPrice": 58.08,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "600036.SH",
@@ -112,7 +112,7 @@
       "currentPrice": 44.83,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "000333.SZ",
@@ -121,12 +121,12 @@
       "minDividendPayoutRatio": 0.6,
       "minDividendPayoutRatioDesc": "现金分红在该次利润分配中所占比例最低应达到60%, ref: https://static.cninfo.com.cn/finalpage/2025-03-29/1222951882.pdf",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 5583.32,
+      "currentMarketCap": 5583.44,
       "totalShares": 76.74,
       "currentPrice": 72.76,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "000651.SZ",
@@ -140,7 +140,7 @@
       "currentPrice": 46.8,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "002003.SZ",
@@ -154,7 +154,7 @@
       "currentPrice": 11.21,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     },
     {
       "code": "001965.SZ",
@@ -168,8 +168,8 @@
       "currentPrice": 11.74,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 3.1,
-      "lastUpdated": "2025-07-25"
+      "lastUpdated": "2025-07-26"
     }
   ],
-  "lastUpdated": "2025-07-25T07:41:18Z"
+  "lastUpdated": "2025-07-26T07:37:58Z"
 }
