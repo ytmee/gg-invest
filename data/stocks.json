@@ -12,7 +12,7 @@
       "currentPrice": 1480.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2025-08-29"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 129.53,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 8.31,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 28.57,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.49,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "600941.SH",
@@ -84,7 +84,7 @@
       "currentPrice": 109.5,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "601318.SH",
@@ -98,7 +98,7 @@
       "currentPrice": 59.88,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "600036.SH",
@@ -112,7 +112,7 @@
       "currentPrice": 42.89,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "000333.SZ",
@@ -126,7 +126,7 @@
       "currentPrice": 73.71,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "000651.SZ",
@@ -140,7 +140,7 @@
       "currentPrice": 42.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "002003.SZ",
@@ -154,7 +154,7 @@
       "currentPrice": 10.87,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     },
     {
       "code": "001965.SZ",
@@ -168,8 +168,8 @@
       "currentPrice": 10.41,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 3.1,
-      "lastUpdated": "2025-08-30"
+      "lastUpdated": "2025-08-31"
     }
   ],
-  "lastUpdated": "2025-08-30T07:34:50Z"
+  "lastUpdated": "2025-08-31T07:32:28Z"
 }
