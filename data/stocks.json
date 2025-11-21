@@ -7,12 +7,12 @@
       "minDividendPayoutRatio": 0.75,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于75%, ref: https://www.moutaichina.com/mtgf/attachDir/2024/08/2024080910064576661.pdf",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 18372.18,
+      "currentMarketCap": 18365.79,
       "totalShares": 12.52,
-      "currentPrice": 1467.11,
+      "currentPrice": 1466.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2025-11-20"
+      "lastUpdated": "2025-11-21"
     },
     {
       "code": "000858.SZ",
@@ -21,12 +21,12 @@
       "minDividendPayoutRatio": 0.7,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于70%且不少于200亿, ref: https://static.cninfo.com.cn/finalpage/2025-05-12/1223526016.PDF",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 4667.63,
+      "currentMarketCap": 4645.51,
       "totalShares": 38.82,
-      "currentPrice": 120.25,
+      "currentPrice": 119.68,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-11-20"
+      "lastUpdated": "2025-11-21"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.55,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-11-20"
+      "lastUpdated": "2025-11-21"
     },
     {
       "code": "600887.SH",
@@ -171,5 +171,5 @@
       "lastUpdated": "2025-11-19"
     }
   ],
-  "lastUpdated": "2025-11-20T07:36:11Z"
+  "lastUpdated": "2025-11-21T07:37:28Z"
 }
