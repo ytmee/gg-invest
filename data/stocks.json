@@ -12,7 +12,7 @@
       "currentPrice": 1466.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2025-11-21"
+      "lastUpdated": "2025-11-22"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 119.68,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-11-21"
+      "lastUpdated": "2025-11-22"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.55,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-11-21"
+      "lastUpdated": "2025-11-22"
     },
     {
       "code": "600887.SH",
@@ -51,12 +51,12 @@
       "minDividendPayoutRatio": 0.7,
       "minDividendPayoutRatioDesc": "业绩说明会承诺分红率不低于70%, ref: https://pdf.dfcfw.com/pdf/H22_AN202409031639716015_1.pdf",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 1859.66,
+      "currentMarketCap": 1840.68,
       "totalShares": 63.25,
-      "currentPrice": 29.4,
+      "currentPrice": 29.1,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-11-20"
+      "lastUpdated": "2025-11-22"
     },
     {
       "code": "600177.SH",
@@ -171,5 +171,5 @@
       "lastUpdated": "2025-11-19"
     }
   ],
-  "lastUpdated": "2025-11-21T07:37:28Z"
+  "lastUpdated": "2025-11-22T07:32:39Z"
 }
