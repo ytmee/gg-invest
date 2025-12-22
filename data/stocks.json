@@ -7,12 +7,12 @@
       "minDividendPayoutRatio": 0.75,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于75%, ref: https://www.moutaichina.com/mtgf/attachDir/2024/08/2024080910064576661.pdf",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 17657.01,
+      "currentMarketCap": 17635.22,
       "totalShares": 12.52,
-      "currentPrice": 1410.0,
+      "currentPrice": 1408.26,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "000858.SZ",
@@ -21,12 +21,12 @@
       "minDividendPayoutRatio": 0.7,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于70%且不少于200亿, ref: https://static.cninfo.com.cn/finalpage/2025-05-12/1223526016.PDF",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 4290.34,
+      "currentMarketCap": 4282.58,
       "totalShares": 38.82,
-      "currentPrice": 110.53,
+      "currentPrice": 110.33,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "002027.SZ",
@@ -35,12 +35,12 @@
       "minDividendPayoutRatio": 0.9,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, ref: https://file.finance.qq.com/finance/hs/pdf/2025/04/29/1223408225.PDF",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 1055.72,
+      "currentMarketCap": 1048.5,
       "totalShares": 144.42,
-      "currentPrice": 7.31,
+      "currentPrice": 7.26,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "600887.SH",
@@ -65,12 +65,12 @@
       "minDividendPayoutRatio": 0.8,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, ref: https://file.finance.qq.com/finance/hs/pdf/2025/05/30/ca7343b43d2c11f09c0dfa163e39923a.pdf",
       "defaultGrowthRate": 0.7,
-      "currentMarketCap": 352.31,
+      "currentMarketCap": 347.68,
       "totalShares": 46.23,
-      "currentPrice": 7.62,
+      "currentPrice": 7.52,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "600941.SH",
@@ -79,12 +79,12 @@
       "minDividendPayoutRatio": 0.73,
       "minDividendPayoutRatioDesc": "业绩说明会承诺未来逐步提升至75%以上, ref: https://pdf.dfcfw.com/pdf/H22_AN202504181658438341_1.pdf",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 22108.95,
+      "currentMarketCap": 21892.54,
       "totalShares": 216.41,
-      "currentPrice": 102.16,
+      "currentPrice": 101.16,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "601318.SH",
@@ -93,12 +93,12 @@
       "minDividendPayoutRatio": 0.3,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, 存在差异化分红, 回购专用证券账户上的A股股份不参与分红",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 12449.0,
+      "currentMarketCap": 12410.98,
       "totalShares": 181.08,
-      "currentPrice": 68.75,
+      "currentPrice": 68.54,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "600036.SH",
@@ -107,12 +107,12 @@
       "minDividendPayoutRatio": 0.3,
       "minDividendPayoutRatioDesc": "原则上不低于当年按中国会计准则审计的归属于本行普通股股东税后净利润30%, ref: https://s3gw.cmbimg.com/lb5001-cmbweb-prd-1255000097/cmbir/20250409/26eba71f-dc76-483c-bcf4-7a6be696ea60.pdf",
       "defaultGrowthRate": 0.9,
-      "currentMarketCap": 10589.81,
+      "currentMarketCap": 10534.33,
       "totalShares": 252.2,
-      "currentPrice": 41.99,
+      "currentPrice": 41.77,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "000333.SZ",
@@ -121,12 +121,12 @@
       "minDividendPayoutRatio": 0.6,
       "minDividendPayoutRatioDesc": "现金分红在该次利润分配中所占比例最低应达到60%, ref: https://static.cninfo.com.cn/finalpage/2025-03-29/1222951882.pdf",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 6110.66,
+      "currentMarketCap": 6088.35,
       "totalShares": 76.91,
-      "currentPrice": 79.45,
+      "currentPrice": 79.16,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "000651.SZ",
@@ -135,12 +135,12 @@
       "minDividendPayoutRatio": 0.45,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 2304.42,
+      "currentMarketCap": 2289.85,
       "totalShares": 56.01,
-      "currentPrice": 41.14,
+      "currentPrice": 40.88,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "002003.SZ",
@@ -149,12 +149,12 @@
       "minDividendPayoutRatio": 0.75,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 128.52,
+      "currentMarketCap": 125.67,
       "totalShares": 11.89,
-      "currentPrice": 10.81,
+      "currentPrice": 10.57,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     },
     {
       "code": "001965.SZ",
@@ -163,13 +163,13 @@
       "minDividendPayoutRatio": 0.5,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
       "defaultGrowthRate": 0.7,
-      "currentMarketCap": 678.15,
+      "currentMarketCap": 672.03,
       "totalShares": 67.95,
-      "currentPrice": 9.98,
+      "currentPrice": 9.89,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 3.1,
-      "lastUpdated": "2025-12-21"
+      "lastUpdated": "2025-12-22"
     }
   ],
-  "lastUpdated": "2025-12-21T07:37:28Z"
+  "lastUpdated": "2025-12-22T07:47:18Z"
 }
