@@ -12,7 +12,7 @@
       "currentPrice": 1377.18,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 105.94,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.37,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 28.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "600941.SH",
@@ -84,7 +84,7 @@
       "currentPrice": 101.05,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "601318.SH",
@@ -98,7 +98,7 @@
       "currentPrice": 68.4,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "600036.SH",
@@ -112,7 +112,7 @@
       "currentPrice": 42.1,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "000333.SZ",
@@ -121,12 +121,12 @@
       "minDividendPayoutRatio": 0.6,
       "minDividendPayoutRatioDesc": "现金分红在该次利润分配中所占比例最低应达到60%, ref: https://static.cninfo.com.cn/finalpage/2025-03-29/1222951882.pdf",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 5937.76,
-      "totalShares": 75.98,
+      "currentMarketCap": 5937.17,
+      "totalShares": 75.97,
       "currentPrice": 78.15,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "000651.SZ",
@@ -140,7 +140,7 @@
       "currentPrice": 40.22,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "002003.SZ",
@@ -154,7 +154,7 @@
       "currentPrice": 10.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     },
     {
       "code": "001965.SZ",
@@ -168,8 +168,8 @@
       "currentPrice": 10.08,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 3.1,
-      "lastUpdated": "2025-12-31"
+      "lastUpdated": "2026-01-01"
     }
   ],
-  "lastUpdated": "2025-12-31T07:41:14Z"
+  "lastUpdated": "2026-01-01T07:40:55Z"
 }
