@@ -12,7 +12,7 @@
       "currentPrice": 1401.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2026-01-31"
+      "lastUpdated": "2026-02-01"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 105.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-01-31"
+      "lastUpdated": "2026-02-01"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.2,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-01-31"
+      "lastUpdated": "2026-02-01"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 26.34,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-01-31"
+      "lastUpdated": "2026-02-01"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.35,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-01-31"
+      "lastUpdated": "2026-02-01"
     },
     {
       "code": "600941.SH",
@@ -171,5 +171,5 @@
       "lastUpdated": "2026-01-26"
     }
   ],
-  "lastUpdated": "2026-01-31T07:46:04Z"
+  "lastUpdated": "2026-02-01T07:53:07Z"
 }
