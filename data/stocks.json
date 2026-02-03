@@ -169,7 +169,63 @@
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 3.1,
       "lastUpdated": "2026-01-26"
+    },
+    {
+      "code": "600025.SH",
+      "name": "华能水电",
+      "lastYearNetProfit": 82.97,
+      "minDividendPayoutRatio": 0.5,
+      "minDividendPayoutRatioDesc": "每年以现金方式分配的利润不少于当年实现的可供分配利润的 50%",
+      "defaultGrowthRate": 0.9,
+      "currentMarketCap": 1673.1,
+      "totalShares": 186.3,
+      "currentPrice": 8.98,
+      "defaultTargetDividendRate": 0.05,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2026-02-03"
+    },
+    {
+      "code": "600690.SH",
+      "name": "海尔智家",
+      "lastYearNetProfit": 187.4,
+      "minDividendPayoutRatio": 0.3,
+      "minDividendPayoutRatioDesc": "以历史记录推测，分红率定为0.3",
+      "defaultGrowthRate": 0.8,
+      "currentMarketCap": 2363.2,
+      "totalShares": 93.78,
+      "currentPrice": 25.20,
+      "defaultTargetDividendRate": 0.045,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2026-02-03"
+    },
+    {
+      "code": "601088.SH",
+      "name": "中国神华",
+      "lastYearNetProfit": 586.7,
+      "minDividendPayoutRatio": 0.7,
+      "minDividendPayoutRatioDesc": "公司承诺2025年中期分红比例不低于75%，并且有长期高分红的传统，历史分红率连续五年超过70%",
+      "defaultGrowthRate": 0.7,
+      "currentMarketCap": 7867.9,
+      "totalShares": 198.7,
+      "currentPrice": 39.60,
+      "defaultTargetDividendRate": 0.05,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2026-02-03"
+    },
+    {
+      "code": "600600.SH",
+      "name": "青岛啤酒",
+      "lastYearNetProfit": 43.45,
+      "minDividendPayoutRatio": 0.55,
+      "minDividendPayoutRatioDesc": "以历史记录推测，分红率定为0.55",
+      "defaultGrowthRate": 0.85,
+      "currentMarketCap": 843.89,
+      "totalShares": 13.64,
+      "currentPrice": 61.86,
+      "defaultTargetDividendRate": 0.05,
+      "cancellationBuyback": 0,
+      "lastUpdated": "2026-02-03"
     }
   ],
-  "lastUpdated": "2026-02-03T07:59:21Z"
+  "lastUpdated": "2026-02-03T17:41:00Z"
 }
