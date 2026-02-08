@@ -12,7 +12,7 @@
       "currentPrice": 1515.01,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2026-02-07"
+      "lastUpdated": "2026-02-08"
     },
     {
       "code": "000858.SZ",
@@ -26,7 +26,7 @@
       "currentPrice": 107.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-02-07"
+      "lastUpdated": "2026-02-08"
     },
     {
       "code": "002027.SZ",
@@ -40,7 +40,7 @@
       "currentPrice": 7.31,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-02-07"
+      "lastUpdated": "2026-02-08"
     },
     {
       "code": "600887.SH",
@@ -56,7 +56,7 @@
       "currentPrice": 27.08,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-02-07"
+      "lastUpdated": "2026-02-08"
     },
     {
       "code": "600177.SH",
@@ -70,7 +70,7 @@
       "currentPrice": 7.37,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-02-07"
+      "lastUpdated": "2026-02-08"
     },
     {
       "code": "600941.SH",
@@ -107,12 +107,12 @@
       "minDividendPayoutRatio": 0.3,
       "minDividendPayoutRatioDesc": "原则上不低于当年按中国会计准则审计的归属于本行普通股股东税后净利润30%, ref: https://s3gw.cmbimg.com/lb5001-cmbweb-prd-1255000097/cmbir/20250409/26eba71f-dc76-483c-bcf4-7a6be696ea60.pdf",
       "defaultGrowthRate": 0.9,
-      "currentMarketCap": 9659.2,
+      "currentMarketCap": 9987.06,
       "totalShares": 252.2,
-      "currentPrice": 38.3,
+      "currentPrice": 39.6,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-02-03"
+      "lastUpdated": "2026-02-08"
     },
     {
       "code": "000333.SZ",
@@ -171,5 +171,5 @@
       "lastUpdated": "2026-01-26"
     }
   ],
-  "lastUpdated": "2026-02-07T07:49:06Z"
+  "lastUpdated": "2026-02-08T07:53:26Z"
 }
