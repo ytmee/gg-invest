@@ -12,7 +12,7 @@
       "currentPrice": 1445.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2026-03-20"
+      "lastUpdated": "2026-03-21"
     },
     {
       "code": "000858.SZ",
@@ -171,5 +171,5 @@
       "lastUpdated": "2026-03-13"
     }
   ],
-  "lastUpdated": "2026-03-20T07:59:34Z"
+  "lastUpdated": "2026-03-21T07:49:51Z"
 }
