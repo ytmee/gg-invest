@@ -7,12 +7,12 @@
       "minDividendPayoutRatio": 0.75,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于75%, ref: https://www.moutaichina.com/mtgf/attachDir/2024/08/2024080910064576661.pdf",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 18095.3,
+      "currentMarketCap": 17623.57,
       "totalShares": 12.52,
-      "currentPrice": 1445.0,
+      "currentPrice": 1407.33,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2026-03-22"
+      "lastUpdated": "2026-03-24"
     },
     {
       "code": "000858.SZ",
@@ -171,5 +171,5 @@
       "lastUpdated": "2026-03-13"
     }
   ],
-  "lastUpdated": "2026-03-22T07:53:30Z"
+  "lastUpdated": "2026-03-24T08:05:33Z"
 }
