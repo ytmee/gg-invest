@@ -7,12 +7,12 @@
       "minDividendPayoutRatio": 0.75,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于75%, ref: https://www.moutaichina.com/mtgf/attachDir/2024/08/2024080910064576661.pdf",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 17650.75,
+      "currentMarketCap": 17769.71,
       "totalShares": 12.52,
-      "currentPrice": 1409.5,
+      "currentPrice": 1419.0,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 40.5,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "000858.SZ",
@@ -21,12 +21,12 @@
       "minDividendPayoutRatio": 0.7,
       "minDividendPayoutRatioDesc": "承诺股息支付率不低于70%且不少于200亿, ref: https://static.cninfo.com.cn/finalpage/2025-05-12/1223526016.PDF",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 3906.45,
+      "currentMarketCap": 3927.41,
       "totalShares": 38.82,
-      "currentPrice": 100.64,
+      "currentPrice": 101.18,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "002027.SZ",
@@ -35,12 +35,12 @@
       "minDividendPayoutRatio": 0.9,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, ref: https://file.finance.qq.com/finance/hs/pdf/2025/04/29/1223408225.PDF",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 904.08,
+      "currentMarketCap": 899.75,
       "totalShares": 144.42,
-      "currentPrice": 6.26,
+      "currentPrice": 6.23,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "600887.SH",
@@ -51,12 +51,12 @@
       "minDividendPayoutRatio": 0.7,
       "minDividendPayoutRatioDesc": "业绩说明会承诺分红率不低于70%, ref: https://pdf.dfcfw.com/pdf/H22_AN202409031639716015_1.pdf",
       "defaultGrowthRate": 0.8,
-      "currentMarketCap": 1599.68,
+      "currentMarketCap": 1598.42,
       "totalShares": 63.25,
-      "currentPrice": 25.29,
+      "currentPrice": 25.27,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "600177.SH",
@@ -65,12 +65,12 @@
       "minDividendPayoutRatio": 0.8,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, ref: https://file.finance.qq.com/finance/hs/pdf/2025/05/30/ca7343b43d2c11f09c0dfa163e39923a.pdf",
       "defaultGrowthRate": 0.7,
-      "currentMarketCap": 343.98,
+      "currentMarketCap": 346.3,
       "totalShares": 46.23,
-      "currentPrice": 7.44,
+      "currentPrice": 7.49,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "600941.SH",
@@ -79,12 +79,12 @@
       "minDividendPayoutRatio": 0.73,
       "minDividendPayoutRatioDesc": "业绩说明会承诺未来逐步提升至75%以上, ref: https://pdf.dfcfw.com/pdf/H22_AN202504181658438341_1.pdf",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 20752.16,
+      "currentMarketCap": 20758.66,
       "totalShares": 216.57,
-      "currentPrice": 95.82,
+      "currentPrice": 95.85,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "601318.SH",
@@ -93,12 +93,12 @@
       "minDividendPayoutRatio": 0.3,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测, 存在差异化分红, 回购专用证券账户上的A股股份不参与分红",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 10507.86,
+      "currentMarketCap": 10480.7,
       "totalShares": 181.08,
-      "currentPrice": 58.03,
+      "currentPrice": 57.88,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "600036.SH",
@@ -107,12 +107,12 @@
       "minDividendPayoutRatio": 0.3,
       "minDividendPayoutRatioDesc": "原则上不低于当年按中国会计准则审计的归属于本行普通股股东税后净利润30%, ref: https://s3gw.cmbimg.com/lb5001-cmbweb-prd-1255000097/cmbir/20250409/26eba71f-dc76-483c-bcf4-7a6be696ea60.pdf",
       "defaultGrowthRate": 0.9,
-      "currentMarketCap": 10022.37,
+      "currentMarketCap": 10040.02,
       "totalShares": 252.2,
-      "currentPrice": 39.74,
+      "currentPrice": 39.81,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "000333.SZ",
@@ -121,12 +121,12 @@
       "minDividendPayoutRatio": 0.6,
       "minDividendPayoutRatioDesc": "现金分红在该次利润分配中所占比例最低应达到60%, ref: https://static.cninfo.com.cn/finalpage/2025-03-29/1222951882.pdf",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 6031.04,
-      "totalShares": 76.05,
-      "currentPrice": 79.3,
+      "currentMarketCap": 6073.14,
+      "totalShares": 76.06,
+      "currentPrice": 79.85,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 50,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "000651.SZ",
@@ -135,12 +135,12 @@
       "minDividendPayoutRatio": 0.45,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 2069.16,
+      "currentMarketCap": 2070.28,
       "totalShares": 56.01,
-      "currentPrice": 36.94,
+      "currentPrice": 36.96,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "002003.SZ",
@@ -149,12 +149,12 @@
       "minDividendPayoutRatio": 0.75,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
       "defaultGrowthRate": 1,
-      "currentMarketCap": 119.25,
+      "currentMarketCap": 120.79,
       "totalShares": 11.89,
-      "currentPrice": 10.03,
+      "currentPrice": 10.16,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 0,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     },
     {
       "code": "001965.SZ",
@@ -163,13 +163,13 @@
       "minDividendPayoutRatio": 0.5,
       "minDividendPayoutRatioDesc": "未承诺最低分红率, 以历史记录推测",
       "defaultGrowthRate": 0.7,
-      "currentMarketCap": 636.7,
+      "currentMarketCap": 642.14,
       "totalShares": 67.95,
-      "currentPrice": 9.37,
+      "currentPrice": 9.45,
       "defaultTargetDividendRate": 0.045,
       "cancellationBuyback": 3.1,
-      "lastUpdated": "2026-04-22"
+      "lastUpdated": "2026-04-23"
     }
   ],
-  "lastUpdated": "2026-04-22T09:01:19Z"
+  "lastUpdated": "2026-04-23T09:09:44Z"
 }
