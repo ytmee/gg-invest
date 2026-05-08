@@ -46,8 +46,6 @@
       "code": "600887.SH",
       "name": "伊利股份",
       "lastYearNetProfit": 115.65,
-      "specialPreferenceAdjustment": 30.37,
-      "specialPreferenceAdjustmentDesc": "澳优乳业计提",
       "minDividendPayoutRatio": 0.7,
       "minDividendPayoutRatioDesc": "业绩说明会承诺分红率不低于70%, ref: https://pdf.dfcfw.com/pdf/H22_AN202409031639716015_1.pdf",
       "defaultGrowthRate": 0.8,
